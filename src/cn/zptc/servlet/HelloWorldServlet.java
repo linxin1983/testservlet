@@ -30,5 +30,9 @@ public class HelloWorldServlet extends GenericServlet{
 		System.out.println("this is destroy method");
 		super.destroy();
 	}
+	
+	public void addsencond() {
+		
+	}
 
 }
